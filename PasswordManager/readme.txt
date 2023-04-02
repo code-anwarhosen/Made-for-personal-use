@@ -1,0 +1,1 @@
+Caution: Do not delete the .db file or any file inside this filder. if you do not want to loss saved data
